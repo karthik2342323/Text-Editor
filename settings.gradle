@@ -1,0 +1,2 @@
+rootProject.name='text_editor_for_learning_1_1'
+include ':app'
